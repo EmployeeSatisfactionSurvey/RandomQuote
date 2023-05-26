@@ -1,0 +1,31 @@
+{
+  "name": "random-quote",
+  "version": "1.0.0",
+  "description": "Browser extension that fetch a random quote from zenquotes.io",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmployeeSatisfactionSurvey/RandomQuote.git"
+  },
+  "keywords": [
+    "browser",
+    "webpack",
+    "laravel-mix",
+    "extension"
+  ],
+  "author": "Sihem BOUHENNICHE",
+  "bugs": {
+    "url": "https://github.com/EmployeeSatisfactionSurvey/RandomQuote/issues"
+  },
+  "homepage": "https://github.com/EmployeeSatisfactionSurvey/RandomQuote#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "laravel-mix": "^6.0.49",
+    "postcss": "^8.4.23",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.3.0",
+    "vue": "^3.3.4",
+    "vue-loader": "^17.1.1",
+    "vue-template-compiler": "^2.7.14"
+  }
+}
